@@ -3,10 +3,10 @@
  */
 export default function(){
     return [
-        {title: 'JavaScript Good Parts'},
-        {title: 'JavaScript 2'},
-        {title: 'JavaScript 3'},
-        {title: 'Readt Good Parts'},
+        {title: 'JavaScript Good Parts', pages:102},
+        {title: 'JavaScript 2', pages:23},
+        {title: 'JavaScript 3', pages:32},
+        {title: 'Readt Good Parts', pages:123}
 
     ];
 }
